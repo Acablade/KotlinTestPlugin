@@ -1,0 +1,7 @@
+name: KotlinTestPlugin
+version: ${project.version}
+main: me.acablade.kotlintestplugin.KotlinTestPlugin
+api-version: 1.13
+authors: [Acablade]
+description: Kotlin test
+website: github.com/Acablade
